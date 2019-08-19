@@ -1,3 +1,7 @@
+# circa
+
+An app that keep tracks and notify users when an event occurs around their interest.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
